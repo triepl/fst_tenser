@@ -1,0 +1,22 @@
+{
+  "name": "fst_tenser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/triepl/fst_tenser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/triepl/fst_tenser/issues"
+  },
+  "homepage": "https://github.com/triepl/fst_tenser#readme",
+  "dependencies": {
+    "@tensorflow/tfjs": "^0.10.3"
+  }
+}
